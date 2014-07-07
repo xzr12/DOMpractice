@@ -1,0 +1,1 @@
+l=$('.lh30');$('[title^=点]').text(1<<30);for(i=1;i<l.length-1;){l.eq(i).prepend('<td><a style="margin-left:10px">'+i++)}
